@@ -1,3 +1,9 @@
+# Os exemplos podem ser testados em um servidor local ou remoto. Para testar remotamente basta trocar a rota das requisições para
+
+```
+http://localhost:3000/produtos
+```
+
 # Exemplo de requisição Criar Produto
 
 POST http://localhost:3000/produtos
