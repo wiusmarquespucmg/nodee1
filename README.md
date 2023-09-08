@@ -4,6 +4,12 @@
 http://localhost:3000/produtos
 ```
 
+# GIT
+
+```
+Git: https://github.com/wiusmarquespucmg/nodee1
+```
+
 # Exemplo de requisição Criar Produto
 
 POST http://localhost:3000/produtos
